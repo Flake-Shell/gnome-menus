@@ -1,0 +1,5 @@
+gnome-menus (3.38.2) unstable; urgency=medium
+
+  * Initial packaging of the FlakeShell fork.
+
+ -- CharOfString <root@charofstring.cc>  Fri, 13 Nov 2026 16:51:48 -0600
